@@ -68,7 +68,6 @@ jobs:
               pkg_version="${result[i+1]}"
               pkg_depends="${result[i+2]}"
               pkg_recommends="${result[i+3]}"
-              pkg_suggests="${result[i+4]}"
               pkg_replaces="${result[i+5]}"
           
               build_native_package \
@@ -79,7 +78,6 @@ jobs:
                   --release "${{ env.PKG_RELEASE }}" \
                   --depends "$pkg_depends" \
                   --recommends "$pkg_recommends" \
-                  --suggests "$pkg_suggests" \
                   --replaces "$pkg_replaces" \
                   --skip rpm \
                   --summary "${{ env.PKG_SUMMARY }}" \
