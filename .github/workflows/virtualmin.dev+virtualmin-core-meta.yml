@@ -1,4 +1,4 @@
-name: "virtualmin.dev: virtualmin/virtualmin-core-meta"
+name: Build
 
 on:
   push:
