@@ -8,7 +8,7 @@ Version: 8.0.1
 Maintainer: Ilia Ross <ilia@virtualmin.com>
 Uploaders: Joe Cooper <joe@virtualmin.com>
 Depends: libcrypt-ssleay-perl, libjson-pp-perl, openssl, virtualmin-config, webmin, webmin-virtual-server
-Recommends: awscli, awstats, bind9-dnsutils, bsdutils, certbot, etckeeper, fail2ban, fcgiwrap, nftables, libconfig-inifiles-perl, libjson-xs-perl, liblog-log4perl-perl, libxml-simple-perl, lm-sensors, logrotate, libdbd-mariadb-perl | libdbd-mysql-perl, mariadb-client | mysql-client, mariadb-common | mysql-common, mariadb-server | mysql-server, p7zip, parted, perl-doc, perl-modules, php-cgi, php-cli, php-curl, php-fpm, php-gd, php-json, php-mbstring, php-mysql, php-xml, python3, quota, rsync, shared-mime-info, sudo, unzip, webmin-nftables, webmin-virtualmin-awstats, webmin-virtualmin-htpasswd, xz-utils, zip, libnet-libidn2-perl
+Recommends: awscli, awstats, bind9-dnsutils, bsdutils, certbot, etckeeper, fail2ban, fcgiwrap, nftables, libconfig-inifiles-perl, libjson-xs-perl, liblog-log4perl-perl, libxml-simple-perl, lm-sensors, logrotate, libdbd-mariadb-perl | libdbd-mysql-perl, mariadb-client | mysql-client, mariadb-common | mysql-common, mariadb-server | mysql-server, p7zip, parted, perl-doc, perl-modules, php-cgi, php-cli, php-curl, php-fpm, php-gd, php-mbstring, php-mysql, php-xml, python3, quota, rsync, shared-mime-info, sudo, unzip, webmin-nftables, webmin-virtualmin-awstats, webmin-virtualmin-htpasswd, xz-utils, zip, libnet-libidn2-perl
 Suggests: libdbd-pg-perl, libpg-perl, php-pear, postgresql, postgresql-client, ri, ruby, webmin-php-pear, webmin-ruby-gems
 Architecture: all
 Description: Installs required and recommended packages for Virtualmin
