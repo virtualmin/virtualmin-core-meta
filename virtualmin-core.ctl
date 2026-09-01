@@ -4,7 +4,7 @@ Homepage: https://github.com/virtualmin/virtualmin-core-meta
 Standards-Version: 4.6.2
 
 Package: virtualmin-core
-Version: 8.0.1
+Version: 8.2.0
 Maintainer: Ilia Ross <ilia@virtualmin.com>
 Uploaders: Joe Cooper <joe@virtualmin.com>
 Depends: libcrypt-ssleay-perl, libjson-pp-perl, openssl, virtualmin-config, webmin, webmin-virtual-server
